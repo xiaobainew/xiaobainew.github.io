@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Linux 软件介绍
 
-You can use the [editor on GitHub](https://github.com/xiaobainew/xiaobainew.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+论坛看不出来人气，群聊可以
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+小众软件  
+使用Trilium构建个人知识库  
+
+kde 套件  
+kjots	类似cherrytree  
+krusader	双栏文件管理器
 
 ### Markdown
 
